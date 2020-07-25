@@ -32,7 +32,7 @@ nav ul li a {
     font-size: 20px;
     text-decoration: none;
     font-weight: bold;
-    color: #ff8200;
+    color: #58508d;
     border-radius: 10px;
 }
 nav ul li a:hover {
@@ -80,10 +80,10 @@ article p {
 
 }
 a {
-	color: #ff8200;
+	color: #58508d;
 }
 a:visited {
-	color: #ff8200;
+	color: #58508d;
 }
 main section {
 
@@ -106,7 +106,7 @@ address {
 aside > div {
 	padding: 10px 30px 10px 30px;
 	margin: 10px auto;
-	background: #ff8200;
+	background: #58508d;
 	min-height: 100px;
 	color: #FFF;
 }
@@ -140,7 +140,7 @@ body > section {
 #pic img {
 	width: 200px;
 	height: 200px;
-	border: 2px solid #ff8200;
+	border: 2px solid #58508d;
 }
 
 @media screen and (max-width: 1000px) {
