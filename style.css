@@ -140,7 +140,6 @@ body > section {
 #pic img {
 	width: 200px;
 	height: 200px;
-	border: 0px solid #58508d;
 }
 
 @media screen and (max-width: 1000px) {
